@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theshivam0010
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...snu tedX team
+- 💞️ I’m looking to collaborate on ...snu tedX team and wanna participate in breez fest at SNU NOIDA 
 - 📫 How to reach me ...my mobile number-6367101825
 
 <!---
